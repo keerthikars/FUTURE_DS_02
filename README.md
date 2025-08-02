@@ -30,7 +30,7 @@ Analyze and visualize the performance of Facebook and Instagram ad campaigns usi
 - Basic Data Cleaning
 
 ## 📷 Screenshots
-![Dashboard Preview](your_screenshot.png)
+![Dashboard Preview]([your_screenshot.png](https://raw.githubusercontent.com/keerthikars/FUTURE_DS_02/600dbdb41e898864c89824d867d0d3aeb7837cb9/Screenshot%20(95).png))
 
 ---
 
